@@ -1,0 +1,5 @@
+{
+    "s3_bucket": "ada-contabilidade-bucket",
+    "sns_topic": "ada-contabilidade-topic",
+    "sqs_queue": "ada-contabilidade-queue"
+}
